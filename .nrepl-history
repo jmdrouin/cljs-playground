@@ -1,3 +1,5 @@
 (start-repl)
 (js/alert "Hello there!")
 exit
+(start-repl)
+(js/alert :MAGIC)
