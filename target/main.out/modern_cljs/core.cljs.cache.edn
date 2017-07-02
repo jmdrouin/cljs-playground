@@ -1,2 +1,1 @@
-;; Analyzed by ClojureScript 1.7.228
-{:name modern-cljs.core, :doc nil, :excludes #{}, :use-macros nil, :require-macros nil, :uses nil, :requires nil, :imports nil}
+{:rename-macros {}, :renames {}, :use-macros {}, :excludes #{}, :name modern-cljs.core, :imports nil, :requires nil, :uses nil, :require-macros nil, :doc nil}

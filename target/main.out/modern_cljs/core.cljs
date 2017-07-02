@@ -5,4 +5,5 @@
 (enable-console-print!)
 
 ;; print to the console
-(println "Hello, World!")
+(println "Hello again, world.")
+(println "Magic magic magic")
